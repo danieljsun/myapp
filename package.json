@@ -15,6 +15,7 @@
   "readmeFilename": "README.md",
   "gitHead": "803a68fdaa127fc37b427d3a63159018575a4f0b",
   "devDependencies": {
-    "grunt": "~0.4.1"
+    "grunt": "~0.4.1",
+    "grunt-browserify": "~1.2.4"
   }
 }
