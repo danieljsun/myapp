@@ -1,0 +1,17 @@
+{
+  "name": "myapp",
+  "version": "0.1.0",
+  "description": "my app template",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/danieljsun/myapp"
+  },
+  "author": "Daniel Sun",
+  "license": "BSD",
+  "readmeFilename": "README.md",
+  "gitHead": "803a68fdaa127fc37b427d3a63159018575a4f0b"
+}
