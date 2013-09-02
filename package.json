@@ -13,5 +13,8 @@
   "author": "Daniel Sun",
   "license": "BSD",
   "readmeFilename": "README.md",
-  "gitHead": "803a68fdaa127fc37b427d3a63159018575a4f0b"
+  "gitHead": "803a68fdaa127fc37b427d3a63159018575a4f0b",
+  "devDependencies": {
+    "grunt": "~0.4.1"
+  }
 }
